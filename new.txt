@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+dsadasd123
+
 dwadw123321asdasddasdsad
 
 new string
+>>>>>>> master
